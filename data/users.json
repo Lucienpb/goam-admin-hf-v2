@@ -1,1 +1,40 @@
-
+{
+  "lucienpb@gmail.com": {
+    "password_hash": "$2b$12$YVik2ND9f1AMaxKl.SCCQuVpiiXPpXXVpQ2jupiId2rggZFOuZdom",
+    "role": "admin",
+    "verified": true,
+    "created_at": "2026-05-16T18:44:00",
+    "updated": "2026-05-17 08:07:47",
+    "name": "Lucien Barnes",
+    "phone": "0814952836",
+    "updated_at": "2026-05-25T20:12:30.889599"
+  },
+  "spoctera@gmail.com": {
+    "password_hash": "$2b$12$P5MCd88Yeps7rTuOLurIfO4jOunZyNju2js/PREy60R931fx2nCSG",
+    "role": "admin",
+    "verified": true,
+    "created_at": "2026-05-25T20:29:39.085096",
+    "updated_at": "2026-05-25 20:29:44"
+  },
+  "lottering47@gmail.com": {
+    "password_hash": "$2b$12$u9.l0tWuiOqHZPa0.xKntOafy8LkgBAunMQRjLRu4k/z9OHUwdZe.",
+    "role": "admin",
+    "verified": true,
+    "created_at": "2026-05-25T20:31:26.488415",
+    "updated_at": "2026-05-25 20:33:34"
+  },
+  "shawn@saloaccounting.co.za": {
+    "password_hash": "$2b$12$4hfeKW7LKfvCZCg/SbmqHu/d7yX1/7lxtgcPW1JvPbqlEK0BA2tfi",
+    "role": "admin",
+    "verified": true,
+    "created_at": "2026-05-25T20:32:20.530101",
+    "updated_at": "2026-05-25 20:33:29"
+  },
+  "evjd@live.co.za": {
+    "password_hash": "$2b$12$MAjLmKqj0meEPxV6hwlUB.g9yeGFmt9lRdhwsiEjSdwjXEvP16DaS",
+    "role": "admin",
+    "verified": true,
+    "created_at": "2026-05-25T20:33:17.736938",
+    "updated_at": "2026-05-25 20:33:26"
+  }
+}
