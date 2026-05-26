@@ -6248,23 +6248,18 @@
   "SERVICES GOLF CLUB": {
     "tees": {
       "Blue": {
-        "slope": 126.0,
-        "rating": 70.5,
+        "slope": 128.0,
+        "rating": 70.1,
         "par": 72
       },
       "Red": {
-        "slope": 119.0,
-        "rating": 67.4,
+        "slope": 117.0,
+        "rating": 67.3,
         "par": 72
       },
       "White": {
-        "slope": 129.0,
-        "rating": 71.5,
-        "par": 72
-      },
-      "Yellow": {
         "slope": 132.0,
-        "rating": 73.0,
+        "rating": 72.3,
         "par": 72
       }
     }
