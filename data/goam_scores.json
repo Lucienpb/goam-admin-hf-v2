@@ -1694,5 +1694,244 @@
     },
     "pool_winner": "Shaheen Boughan",
     "fines_total": 300
+  },
+  "BlueValley": {
+    "course": "BlueValley",
+    "players": [
+      {
+        "name": "Bjorn Singh",
+        "strokes": 85,
+        "ips": 41,
+        "team": "Birdie Buddies",
+        "handicap": 18,
+        "np1": 0,
+        "np2": 0,
+        "ld1": 0,
+        "ld2": 0,
+        "bg": 85,
+        "bn": 67,
+        "pool_bet": 0,
+        "pool_payouts": 0,
+        "fines": 30,
+        "nett": 67
+      },
+      {
+        "name": "Arno Adonis",
+        "strokes": 84,
+        "ips": 34,
+        "team": "Home Boys",
+        "handicap": 10,
+        "np1": 0,
+        "np2": 0,
+        "ld1": 0,
+        "ld2": 0,
+        "bg": 84,
+        "bn": 74,
+        "pool_bet": 0,
+        "pool_payouts": 150,
+        "fines": 30,
+        "nett": 74
+      },
+      {
+        "name": "Chad Naude",
+        "strokes": 91,
+        "ips": 34,
+        "team": "Fairway Fighters",
+        "handicap": 17,
+        "np1": 2,
+        "np2": 0,
+        "ld1": 0,
+        "ld2": 0,
+        "bg": 91,
+        "bn": 74,
+        "pool_bet": 0,
+        "pool_payouts": 50,
+        "fines": 30,
+        "nett": 74
+      },
+      {
+        "name": "Lucien Barnes",
+        "strokes": 95,
+        "ips": 34,
+        "team": "Fairway Fighters",
+        "handicap": 21,
+        "np1": 0,
+        "np2": 15,
+        "ld1": 0,
+        "ld2": 0,
+        "bg": 95,
+        "bn": 74,
+        "pool_bet": 0,
+        "pool_payouts": 0,
+        "fines": 30,
+        "nett": 74
+      },
+      {
+        "name": "Shawn Davies",
+        "strokes": 82,
+        "ips": 32,
+        "team": "Birdie Buddies",
+        "handicap": 6,
+        "np1": 0,
+        "np2": 0,
+        "ld1": 0,
+        "ld2": 0,
+        "bg": 82,
+        "bn": 76,
+        "pool_bet": 0,
+        "pool_payouts": 0,
+        "fines": 30,
+        "nett": 76
+      },
+      {
+        "name": "Jodi Van Niekerk",
+        "strokes": 91,
+        "ips": 31,
+        "team": "Tee Stingers",
+        "handicap": 14,
+        "np1": 0,
+        "np2": 0,
+        "ld1": 5,
+        "ld2": 0,
+        "bg": 91,
+        "bn": 77,
+        "pool_bet": 0,
+        "pool_payouts": 0,
+        "fines": 30,
+        "nett": 77
+      },
+      {
+        "name": "Dale Adonis",
+        "strokes": 91,
+        "ips": 31,
+        "team": "Home Boys",
+        "handicap": 14,
+        "np1": 0,
+        "np2": 0,
+        "ld1": 0,
+        "ld2": 0,
+        "bg": 91,
+        "bn": 77,
+        "pool_bet": 0,
+        "pool_payouts": 0,
+        "fines": 30,
+        "nett": 77
+      },
+      {
+        "name": "John Barker",
+        "strokes": 89,
+        "ips": 30,
+        "team": "Tee Tigers",
+        "handicap": 11,
+        "np1": 0,
+        "np2": 0,
+        "ld1": 0,
+        "ld2": 0,
+        "bg": 89,
+        "bn": 78,
+        "pool_bet": 0,
+        "pool_payouts": 0,
+        "fines": 30,
+        "nett": 78
+      },
+      {
+        "name": "Shaheen Boughan",
+        "strokes": 92,
+        "ips": 29,
+        "team": "Birdie Buddies",
+        "handicap": 13,
+        "np1": 0,
+        "np2": 0,
+        "ld1": 0,
+        "ld2": 13,
+        "bg": 92,
+        "bn": 79,
+        "pool_bet": 0,
+        "pool_payouts": 300,
+        "fines": 30,
+        "nett": 79
+      },
+      {
+        "name": "Mika Moerat",
+        "strokes": 92,
+        "ips": 23,
+        "team": "Fairway Fighters",
+        "handicap": 8,
+        "np1": 0,
+        "np2": 0,
+        "ld1": 0,
+        "ld2": 0,
+        "bg": 92,
+        "bn": 84,
+        "pool_bet": 0,
+        "pool_payouts": 0,
+        "fines": 30,
+        "nett": 84
+      }
+    ],
+    "best_gross": "Shawn Davies",
+    "best_nett": "Bjorn Singh",
+    "ox_nau": "Mika Moerat",
+    "placements": [
+      {
+        "position": 1,
+        "name": "Bjorn Singh",
+        "ips": 41
+      },
+      {
+        "position": 2,
+        "name": "Arno Adonis",
+        "ips": 34
+      },
+      {
+        "position": 3,
+        "name": "Chad Naude",
+        "ips": 34
+      },
+      {
+        "position": 4,
+        "name": "Lucien Barnes",
+        "ips": 34
+      },
+      {
+        "position": 5,
+        "name": "Shawn Davies",
+        "ips": 32
+      },
+      {
+        "position": 6,
+        "name": "Jodi Van Niekerk",
+        "ips": 31
+      },
+      {
+        "position": 7,
+        "name": "Dale Adonis",
+        "ips": 31
+      },
+      {
+        "position": 8,
+        "name": "John Barker",
+        "ips": 30
+      },
+      {
+        "position": 9,
+        "name": "Shaheen Boughan",
+        "ips": 29
+      },
+      {
+        "position": 10,
+        "name": "Mika Moerat",
+        "ips": 23
+      }
+    ],
+    "liv_totals": {
+      "Birdie Buddies": 102,
+      "Home Boys": 65,
+      "Fairway Fighters": 91,
+      "Tee Stingers": 31,
+      "Tee Tigers": 30
+    },
+    "pool_winner": "Shaheen Boughan",
+    "fines_total": 300
   }
 }
